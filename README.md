@@ -17,24 +17,20 @@
 - **Hugging Face API for image generation**  
 
 ## How to Use  
-1. **Download the project:**  
-   ```bash  
-   git clone https://github.com/REBINFERNART/tamil-audio-ai.git  
-   cd tamil-audio-ai  
-   ```  
-2. **Install dependencies:**  
+  
+1. **Install dependencies:**  
    ```bash  
    pip install -r requirements.txt  
    ```  
-3. **Set up API Key:**  
+2. **Set up API Key:**  
    ```bash  
    export GROQ_API_KEY="your_groq_api_key"  
    ```  
-4. **Run the app:**  
+3. **Run the app:**  
    ```bash  
    python app.py  
    ```  
-5. **Upload a Tamil audio file & get results!** 🎉  
+4. **Upload a Tamil audio file & get results!** 🎉  
 
 ## Useful Links  
 - [Groq API](https://groq.com/)  
