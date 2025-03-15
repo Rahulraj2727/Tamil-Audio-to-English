@@ -28,7 +28,7 @@
    ```  
 3. **Run the app:**  
    ```bash  
-   python app.py  
+   python App.py  
    ```  
 4. **Upload a Tamil audio file & get results!** 🎉  
 
