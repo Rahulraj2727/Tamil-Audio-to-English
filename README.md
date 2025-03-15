@@ -24,7 +24,7 @@
    ```  
 2. **Set up API Key:**  
    ```bash  
-   export GROQ_API_KEY="your_groq_api_key"  
+   GROQ_API_KEY="your_groq_api_key"  
    ```  
 3. **Run the app:**  
    ```bash  
